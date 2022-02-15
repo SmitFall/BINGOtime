@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BINGOtime", "BINGOtime\BINGOtime.vbproj", "{6DACA0FF-A998-4EFF-9D5E-C232B21EA801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DACA0FF-A998-4EFF-9D5E-C232B21EA801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DACA0FF-A998-4EFF-9D5E-C232B21EA801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DACA0FF-A998-4EFF-9D5E-C232B21EA801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DACA0FF-A998-4EFF-9D5E-C232B21EA801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204B7363-A5F2-4EAB-8C14-290CF2A1DA1D}
+	EndGlobalSection
+EndGlobal
